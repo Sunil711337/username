@@ -14,4 +14,4 @@ I am a Master of Computer Applications (MCA) student passionate about software d
 
 ## Contact
 - Email: sunil711337@gmail.com
-- LinkedIn: https://www.linkedin.com/in/sunil-sharma-647b10209/
+- LinkedIn: www.linkedin.com/in/sunil711337
