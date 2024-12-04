@@ -28,5 +28,5 @@ I am a Master of Computer Applications (MCA) student passionate about software d
    - [Link to the project](https://github.com/username/house-price-prediction)
 
 ## Contact
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: sunil711337@gmail.com
+- LinkedIn:
